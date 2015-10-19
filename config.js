@@ -6,7 +6,7 @@ System.config({
     "noImplicitAny": true,
     "typeCheck": true,
     "resolveAmbientRefs": true
-  },  
+  },
   paths: {
     "npm:*": "jspm_packages/npm/*",
     "github:*": "jspm_packages/github/*"
