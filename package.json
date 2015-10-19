@@ -1,0 +1,24 @@
+{
+  "jspm": {
+    "dependencies": {
+      "digital-synapse/lovefield": "github:digital-synapse/lovefield@master"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-tsd": "0.0.4",
+    "gulp-typescript": "^2.9.2",
+    "jspm": "^0.16.13",
+    "merge2": "^0.3.6"
+  },
+  "name": "lovefield-jspm",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "install": "jspm install"
+  }
+}
